@@ -1,0 +1,92 @@
+{
+  "corpus_name": "westernsiberia_languages",
+  "input_format": "json",
+  "debug": false,
+  "media": false,
+  "media_length": 60,
+  "max_context_expand": 4,
+  "max_distance_filter": 200000,
+  "max_docs_retrieve": 9999,
+  "max_words_in_sentence": 40,
+  "query_timeout": 60,
+  "viewable_meta": [
+    "filename",
+    "author",
+    "title",
+    "genre",
+    "year_from",
+    "year_to",
+    "year"
+  ],
+  "sentence_meta": [
+    "age",
+    "gender"
+  ],
+  "search_meta": {
+    "columns": [
+      [
+        {"type": "input_text", "name": "author", "placeholder": "Author"},
+        {"type": "input_text", "name": "title", "placeholder": "Title"},
+        {"type": "separator"},
+        {"type": "input_number", "name": "year_from", "placeholder": "Year: from"},
+        {"type": "input_number", "name": "year_to", "placeholder": "Year: to"}
+      ],
+      [
+        {"type": "input_text", "name": "genre", "placeholder": "Genre"},
+        {"type": "option", "name": "genre", "value": "fiction", "text": "fiction"},
+        {"type": "option", "name": "genre", "value": "nonfiction", "text": "non-fiction"},
+        {"type": "option", "name": "genre", "value": "press", "text": "press"},
+        {"type": "option", "name": "genre", "value": "blog", "text": "blog"}
+      ]
+    ],
+    "stat_options": [
+      "genre",
+      "author",
+      "title",
+      "year"
+    ]
+  },
+  "word_fields":
+  [
+    "trans_ru",
+    "trans_en"
+  ],
+  "languages": ["your_corpus_language"],
+  "transliterations": ["original", "IPA"],
+  "input_methods": ["normal"],
+  "interface_languages": {"en": "English", "ru": "Russian"},
+  "all_language_search_enabled": true,
+  "gloss_search_enabled": true,
+  "ambiguous_analyses": true,
+  "lang_props":
+  {
+    "your_corpus_language":
+    {
+      "gloss_shortcuts": {
+        "case": "(obl(\\.pl)?|abs|erg|gen|abl|ins)",
+        "tense": "(pst|fut|prs)"
+      },
+      "gr_fields_order": ["tense", "person", "number", "case", "poss"],
+      "gloss_selection": {
+        "columns": [
+          [
+            {"type": "gloss", "value": "CASE", "tooltip": "Any&nbsp;case&nbsp;marker"},
+            {"type": "gloss", "value": "ABS", "tooltip": "Absolutive case"},
+            {"type": "gloss", "value": "ERG", "tooltip": "Ergative case"}
+          ]
+        ]
+      },
+      "gramm_selection": {
+        "columns": [
+          [
+            {"type": "header", "value": "Parts of speech"},
+            {"type": "gramm", "value": "N", "category": "pos", "tooltip": "Noun"},
+            {"type": "gramm", "value": "V", "category": "pos", "tooltip": "Verb"},
+            {"type": "gramm", "value": "A", "category": "pos", "tooltip": "Adjective"},
+            {"type": "separator"}
+          ]
+        ]
+      }
+    }
+  }
+}
