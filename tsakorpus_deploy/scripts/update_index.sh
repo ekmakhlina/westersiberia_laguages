@@ -5,7 +5,7 @@ SOURCE_ROOT_DIR="$( cd $(dirname $0) && pwd -P)/.."
 TSAKORPUS_DIR=${TSAKORPUS_DIR:-"$HOME/tsakorpus"}
 CONFIGS_DIR=${CONFIGS_DIR:-"$SOURCE_ROOT_DIR/configs"}
 
-rm -rf "$TSAKORPUS_DIR/corpus/*"
+rm -r $TSAKORPUS_DIR/corpus/*
 (cd $CONFIGS_DIR; find . -type f | 
     while read filename; do
         echo "$filename"
