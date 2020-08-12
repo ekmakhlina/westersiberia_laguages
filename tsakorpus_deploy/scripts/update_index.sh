@@ -12,6 +12,6 @@ CONFIGS_DIR=${CONFIGS_DIR:-"$SOURCE_ROOT_DIR/configs"}
         mkdir -p "$dir" && cp "$CONFIGS_DIR/$filename" "$dir"
     done)
 
-( cd "$TSAKORPUS_DIR/indexator" && python indexator.py )
+( cd "$TSAKORPUS_DIR/indexator" && python3 indexator.py )
 
 
