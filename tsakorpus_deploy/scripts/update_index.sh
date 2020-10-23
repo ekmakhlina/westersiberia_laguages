@@ -9,7 +9,7 @@ rm -r $TSAKORPUS_DIR/corpus/*
 (cd $CONFIGS_DIR; find . -type f | 
     while read filename; do
         echo "$filename"
-        dir="$TSAKORPUS_DIR/$( dirname $filename )"
+        dir="$TSAKORPUS_DIR/$( dirname '$filename' )"
         mkdir -p "$dir" && cp "$CONFIGS_DIR/$filename" "$dir"
     done)
 
