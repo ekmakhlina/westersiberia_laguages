@@ -8,7 +8,7 @@ CONFIGS_DIR=${CONFIGS_DIR:-"$SOURCE_ROOT_DIR/configs"}
 rm -r $TSAKORPUS_DIR/corpus/*
 (cd $CONFIGS_DIR; find . -type f | 
     while read filename; do
-        dir="$TSAKORPUS_DIR"/$( dirname ${filename} )
+        dir="$TSAKORPUS_DIR"/$( dirname "${filename}" )
         echo "copy $CONFIGS_DIR/${filename} to $dir"
         mkdir -p "$dir" && cp "$CONFIGS_DIR/${filename}" "$dir"
     done)
