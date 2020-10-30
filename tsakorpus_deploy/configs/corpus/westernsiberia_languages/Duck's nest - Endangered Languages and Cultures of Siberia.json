@@ -1,0 +1,2134 @@
+{
+    "sentences": [
+        {
+            "text": "ŋaʔu, ŋaʔu pizi badnukun ŋaʃ, ŋaʔu pizi",
+            "words": [
+                {
+                    "wf": "ŋaʔu",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "duck",
+                            "glosses_en": "duck",
+                            "morphemes": "ŋaʔu"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1
+                },
+                {
+                    "wf": "ŋaʔu",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "duck",
+                            "glosses_en": "duck",
+                            "morphemes": "ŋaʔu"
+                        }
+                    ]
+                },
+                {
+                    "wf": "pizi",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "nest",
+                            "glosses_en": "nest",
+                            "morphemes": "pizi"
+                        }
+                    ]
+                },
+                {
+                    "wf": "badnukun",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "near-DIR-ЛОК.ЕД",
+                            "glosses_en": "near-DIR-LOC.SG",
+                            "morphemes": "bɔd-nuku-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ŋaʃ",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "существовать(ipfv)-3ЕД.S.ПРОШ",
+                            "glosses_en": "exist(ipfv)-3SG.S.PST",
+                            "morphemes": "ŋa-ʃ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 28,
+                    "off_end": 29,
+                    "next_word": 7,
+                    "sentence_index": 6
+                },
+                {
+                    "wf": "ŋaʔu",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 34,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "ana": [
+                        {
+                            "glosses_ru": "duck",
+                            "glosses_en": "duck",
+                            "morphemes": "ŋaʔu"
+                        }
+                    ]
+                },
+                {
+                    "wf": "pizi",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 39,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "ana": [
+                        {
+                            "glosses_ru": "nest",
+                            "glosses_en": "nest",
+                            "morphemes": "pizi"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "mɔtuʔ mɔnazaʃ, mɔtuʔ",
+            "words": [
+                {
+                    "wf": "mɔtuʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "шесть",
+                            "glosses_en": "six",
+                            "morphemes": "mɔtuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mɔnazaʃ",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "egg-NOM.ЕД.3ЕД.ПРОШ",
+                            "glosses_en": "egg-NOM.SG.3SG.PST",
+                            "morphemes": "mɔna-zaʃ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "mɔtuʔ",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "шесть",
+                            "glosses_en": "six",
+                            "morphemes": "mɔtuʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tʃiker mu, pɔna samaaʃ kanʲeexazduʔ, iblʲɛjɡuɔn mu, ɔrubutuʔ",
+            "words": [
+                {
+                    "wf": "tʃiker",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот-NOM.ЕД.2ЕД",
+                            "glosses_en": "this-NOM.SG.2SG",
+                            "morphemes": "tʃike-r"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC",
+                            "glosses_en": "PLC",
+                            "morphemes": "mo"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "pɔna",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "тогда",
+                            "glosses_en": "then",
+                            "morphemes": "pɔna"
+                        }
+                    ]
+                },
+                {
+                    "wf": "samaaʃ",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "bird-TRANS",
+                            "glosses_en": "bird-TRANS",
+                            "morphemes": "sama-iʃ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kanʲeexazduʔ",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 35,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-NMLZ1-АБЛ.ЕД-ОБЛ.ЕД.3МН",
+                            "glosses_en": "leave(pfv)-NMLZ1-ABL.SG-OBL.SG.3PL",
+                            "morphemes": "kanʲe-a-xoz-duʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 35,
+                    "off_end": 36,
+                    "next_word": 7,
+                    "sentence_index": 6
+                },
+                {
+                    "wf": "iblʲɛjɡuɔn",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 47,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "ana": [
+                        {
+                            "glosses_ru": "маленький-ПРОЛ.ЕД",
+                            "glosses_en": "small-PROL.SG",
+                            "morphemes": "iblʲɛjɡu-ɔn"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 48,
+                    "off_end": 50,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC",
+                            "glosses_en": "PLC",
+                            "morphemes": "mo"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 50,
+                    "off_end": 51,
+                    "next_word": 10,
+                    "sentence_index": 9
+                },
+                {
+                    "wf": "ɔrubutuʔ",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 60,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "ana": [
+                        {
+                            "glosses_ru": "вырасти(pfv)-КОНВ.КОНД-ОБЛ.ЕД.3МН",
+                            "glosses_en": "grow:up(pfv)-CVB.COND-OBL.SG.3PL",
+                            "morphemes": "aruu-buʔ-duʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "ɛɛzuʔ bɛuza dʲa nʲeɔn kadteza",
+            "words": [
+                {
+                    "wf": "ɛɛzuʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "мать-NOM.ЕД.3МН",
+                            "glosses_en": "mother-NOM.SG.3PL",
+                            "morphemes": "ɛɛ-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bɛuza",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "soon",
+                            "glosses_en": "soon",
+                            "morphemes": "bɛuza"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲa",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "место",
+                            "glosses_en": "place",
+                            "morphemes": "dʲa"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nʲeɔn",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "вдоль",
+                            "glosses_en": "along",
+                            "morphemes": "nʲeɔn"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kadteza",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 29,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "унести(pfv)-ФУТ-МН.ОБ-3ЕД.NON.ЕД.ОБ",
+                            "glosses_en": "take:away(pfv)-FUT-PL.OBJ-3SG.NON.SG.OBJ",
+                            "morphemes": "kada-da-e-za"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "dʲɔxa miʔ, tɔju taxanukuj dʲɔxa miʔ kadteza teza",
+            "words": [
+                {
+                    "wf": "dʲɔxa",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "river",
+                            "glosses_en": "river",
+                            "morphemes": "dʲɔxa"
+                        }
+                    ]
+                },
+                {
+                    "wf": "miʔ",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "внутрь",
+                            "glosses_en": "into",
+                            "morphemes": "miʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "tɔju",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "тот-RESTR.ПРИЛ",
+                            "glosses_en": "that-RESTR.ADJ",
+                            "morphemes": "tɔ-ju"
+                        }
+                    ]
+                },
+                {
+                    "wf": "taxanukuj",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "за-DIR-ПРИЛ",
+                            "glosses_en": "behind-DIR-ADJ",
+                            "morphemes": "taxa-nuku-j"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲɔxa",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 31,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "river",
+                            "glosses_en": "river",
+                            "morphemes": "dʲɔxa"
+                        }
+                    ]
+                },
+                {
+                    "wf": "miʔ",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "ana": [
+                        {
+                            "glosses_ru": "внутрь",
+                            "glosses_en": "into",
+                            "morphemes": "miʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kadteza",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 43,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "ana": [
+                        {
+                            "glosses_ru": "унести(pfv)-ФУТ-МН.ОБ-3ЕД.NON.ЕД.ОБ",
+                            "glosses_en": "take:away(pfv)-FUT-PL.OBJ-3SG.NON.SG.OBJ",
+                            "morphemes": "kada-da-e-za"
+                        }
+                    ]
+                },
+                {
+                    "wf": "teza",
+                    "wtype": "word",
+                    "off_start": 44,
+                    "off_end": 48,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "ana": [
+                        {
+                            "glosses_ru": "сейчас",
+                            "glosses_en": "now",
+                            "morphemes": "teza"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "teza tonin toɔbatʃ",
+            "words": [
+                {
+                    "wf": "teza",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "сейчас",
+                            "glosses_en": "now",
+                            "morphemes": "teza"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tonin",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "там(dir)-ЛОК.ЕД",
+                            "glosses_en": "there(dir)-LOC.SG",
+                            "morphemes": "toni-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": "toɔbatʃ",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "прийти(pfv)-1МН.S/ЕД.ОБ.ПРОШ",
+                            "glosses_en": "come(pfv)-1PL.S/SG.OBJ.PST",
+                            "morphemes": "to-atʃ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tʃike dʲɔxa, dʲɔxa meɔn kantaʔ tɔʔ",
+            "words": [
+                {
+                    "wf": "tʃike",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот",
+                            "glosses_en": "this",
+                            "morphemes": "tʃike"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲɔxa",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "river",
+                            "glosses_en": "river",
+                            "morphemes": "dʲɔxa"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "dʲɔxa",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "river",
+                            "glosses_en": "river",
+                            "morphemes": "dʲɔxa"
+                        }
+                    ]
+                },
+                {
+                    "wf": "meɔn",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "inner:part-ПРОЛ.ЕД",
+                            "glosses_en": "inner:part-PROL.SG",
+                            "morphemes": "me-ɔn"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kantaʔ",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 30,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-ФУТ-3МН.S",
+                            "glosses_en": "leave(pfv)-FUT-3PL.S",
+                            "morphemes": "kanʲe-da-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tɔʔ",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "ana": [
+                        {
+                            "glosses_ru": "здесь(dir)",
+                            "glosses_en": "here(dir)",
+                            "morphemes": "tɔʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tod, aɡa tod kautezʔ",
+            "words": [
+                {
+                    "wf": "tod",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "озеро-ДАТ.ЕД",
+                            "glosses_en": "lake-DAT.SG",
+                            "morphemes": "to-d"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 2,
+                    "sentence_index": 1
+                },
+                {
+                    "wf": "aɡa",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 8,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "большой",
+                            "glosses_en": "big",
+                            "morphemes": "aɡa"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tod",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "озеро-ДАТ.ЕД",
+                            "glosses_en": "lake-DAT.SG",
+                            "morphemes": "to-d"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kautezʔ",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 20,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "fall:down(pfv)-ФУТ-M-3МН.M",
+                            "glosses_en": "fall:down(pfv)-FUT-M-3PL.M",
+                            "morphemes": "kaus-da-e-zʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "modʲnaʔ toxonaʔ kautezʔ",
+            "words": [
+                {
+                    "wf": "modʲnaʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "we",
+                            "glosses_en": "we",
+                            "morphemes": "modʲinaʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "toxonaʔ",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "озеро-ДАТ.ЕД-ОБЛ.ЕД.1МН",
+                            "glosses_en": "lake-DAT.SG-OBL.SG.1PL",
+                            "morphemes": "to-d-naʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kautezʔ",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 23,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "fall:down(pfv)-ФУТ-M-3МН.M",
+                            "glosses_en": "fall:down(pfv)-FUT-M-3PL.M",
+                            "morphemes": "kaus-da-e-zʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "teza poɡunaʔ kokon tʃieʔ tɔʔ",
+            "words": [
+                {
+                    "wf": "teza",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "сейчас",
+                            "glosses_en": "now",
+                            "morphemes": "teza"
+                        }
+                    ]
+                },
+                {
+                    "wf": "poɡunaʔ",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "fishing:net-МН.1МН",
+                            "glosses_en": "fishing:net-PL.1PL",
+                            "morphemes": "poɡa-naʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kokon",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "где-ЛОК.ЕД",
+                            "glosses_en": "where-LOC.SG",
+                            "morphemes": "ko-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tʃieʔ",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 24,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "be:installed(ipfv)-3МН.S",
+                            "glosses_en": "be:installed(ipfv)-3PL.S",
+                            "morphemes": "tʃi-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tɔʔ",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "здесь(dir)",
+                            "glosses_en": "here(dir)",
+                            "morphemes": "tɔʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tʃike toxoz anʲ ʃuzib muuʃ, dʲɔxaaʃ kanʲeØ tɔʃnoju, dʲettʃiu dʲez",
+            "words": [
+                {
+                    "wf": "tʃike",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот",
+                            "glosses_en": "this",
+                            "morphemes": "tʃike"
+                        }
+                    ]
+                },
+                {
+                    "wf": "toxoz",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "озеро-АБЛ.ЕД",
+                            "glosses_en": "lake-ABL.SG",
+                            "morphemes": "to-xoz"
+                        }
+                    ]
+                },
+                {
+                    "wf": "anʲ",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "and",
+                            "glosses_en": "and",
+                            "morphemes": "anʲ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ʃuzib",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "великан",
+                            "glosses_en": "giant",
+                            "morphemes": "ʃuzibe"
+                        }
+                    ]
+                },
+                {
+                    "wf": "muuʃ",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC-TRANS",
+                            "glosses_en": "PLC-TRANS",
+                            "morphemes": "mo-iʃ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "next_word": 6,
+                    "sentence_index": 5
+                },
+                {
+                    "wf": "dʲɔxaaʃ",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "ana": [
+                        {
+                            "glosses_ru": "river-TRANS",
+                            "glosses_en": "river-TRANS",
+                            "morphemes": "dʲɔxa-iʃ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kanʲeØ",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 42,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-3ЕД.S",
+                            "glosses_en": "leave(pfv)-3SG.S",
+                            "morphemes": "kanʲe-Ø"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tɔʃnoju",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 50,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "ana": [
+                        {
+                            "glosses_ru": "lower:part-ADV-RESTR.ПРИЛ",
+                            "glosses_en": "lower:part-ADV-RESTR.ADJ",
+                            "morphemes": "tɔʃe-no-ju"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 50,
+                    "off_end": 51,
+                    "next_word": 10,
+                    "sentence_index": 9
+                },
+                {
+                    "wf": "dʲettʃiu",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 60,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "ana": [
+                        {
+                            "glosses_ru": "Yenissey",
+                            "glosses_en": "Yenissey",
+                            "morphemes": "dʲettʃiu"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲez",
+                    "wtype": "word",
+                    "off_start": 61,
+                    "off_end": 65,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "ana": [
+                        {
+                            "glosses_ru": "in:the:direction",
+                            "glosses_en": "in:the:direction",
+                            "morphemes": "dʲez"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tɔʔ muxon, avɡust dʲirixon tʃikon, dʲettʃiu barxon",
+            "words": [
+                {
+                    "wf": "tɔʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "здесь(dir)",
+                            "glosses_en": "here(dir)",
+                            "morphemes": "tɔʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "muxon",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC-ЛОК.ЕД",
+                            "glosses_en": "PLC-LOC.SG",
+                            "morphemes": "mo-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "avɡust",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "August",
+                            "glosses_en": "August",
+                            "morphemes": "avɡust"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲirixon",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "луна-ЛОК.ЕД",
+                            "glosses_en": "moon-LOC.SG",
+                            "morphemes": "dʲiri-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tʃikon",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 33,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот-ЛОК.ЕД",
+                            "glosses_en": "this-LOC.SG",
+                            "morphemes": "tʃike-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 33,
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6
+                },
+                {
+                    "wf": "dʲettʃiu",
+                    "wtype": "word",
+                    "off_start": 35,
+                    "off_end": 43,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "ana": [
+                        {
+                            "glosses_ru": "Yenissey",
+                            "glosses_en": "Yenissey",
+                            "morphemes": "dʲettʃiu"
+                        }
+                    ]
+                },
+                {
+                    "wf": "barxon",
+                    "wtype": "word",
+                    "off_start": 44,
+                    "off_end": 50,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "ana": [
+                        {
+                            "glosses_ru": "border-ЛОК.ЕД",
+                            "glosses_en": "border-LOC.SG",
+                            "morphemes": "bar-xon"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "mudaʔ, oodaʔ kanʲeeda ɔron",
+            "words": [
+                {
+                    "wf": "mudaʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC-ФУТ-3МН.S",
+                            "glosses_en": "PLC-FUT-3PL.S",
+                            "morphemes": "mo-da-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1
+                },
+                {
+                    "wf": "oodaʔ",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "есть(ipfv)-ФУТ-3МН.S",
+                            "glosses_en": "eat(ipfv)-FUT-3PL.S",
+                            "morphemes": "oor-da-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kanʲeeda",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-NMLZ1-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "leave(pfv)-NMLZ1-OBL.SG.3SG",
+                            "morphemes": "kanʲe-a-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɔron",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "перед",
+                            "glosses_en": "before",
+                            "morphemes": "ɔron"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tɔizuʔ ɔzidaʔ, tɔizuʔ nɔɔjdadaʔ",
+            "words": [
+                {
+                    "wf": "tɔizuʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "wing-NOM.МН.3МН",
+                            "glosses_en": "wing-NOM.PL.3PL",
+                            "morphemes": "tɔ-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɔzidaʔ",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "be:visible(ipfv)-INC1-ФУТ-3МН.S",
+                            "glosses_en": "be:visible(ipfv)-INC1-FUT-3PL.S",
+                            "morphemes": "ɔzi-u-da-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "tɔizuʔ",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "wing-NOM.МН.3МН",
+                            "glosses_en": "wing-NOM.PL.3PL",
+                            "morphemes": "tɔ-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nɔɔjdadaʔ",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "direct(pfv)-ФУТ-3МН.S",
+                            "glosses_en": "direct(pfv)-FUT-3PL.S",
+                            "morphemes": "nɔɔjda-da-ʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "tɔz tʃikoz tʃidezʔ tɛxɛ dʲaxaduʔ",
+            "words": [
+                {
+                    "wf": "tɔz",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "так",
+                            "glosses_en": "so",
+                            "morphemes": "tɔz"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tʃikoz",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот-АБЛ.ЕД",
+                            "glosses_en": "this-ABL.SG",
+                            "morphemes": "tʃike-xoz"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tʃidezʔ",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "летать(pfv)-ФУТ-M-3МН.M",
+                            "glosses_en": "fly(pfv)-FUT-M-3PL.M",
+                            "morphemes": "tʃi-da-e-zʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tɛxɛ",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "там(loc)",
+                            "glosses_en": "there(loc)",
+                            "morphemes": "tɛxɛ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲaxaduʔ",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-ДАТ.ЕД-ОБЛ.ЕД.3МН",
+                            "glosses_en": "place-DAT.SG-OBL.SG.3PL",
+                            "morphemes": "dʲa-d-duʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "sirej, sirej dʲaxaduʔ",
+            "words": [
+                {
+                    "wf": "sirej",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "snow-ПРИЛ",
+                            "glosses_en": "snow-ADJ",
+                            "morphemes": "sira-j"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1
+                },
+                {
+                    "wf": "sirej",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "snow-ПРИЛ",
+                            "glosses_en": "snow-ADJ",
+                            "morphemes": "sira-j"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲaxaduʔ",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-ДАТ.ЕД-ОБЛ.ЕД.3МН",
+                            "glosses_en": "place-DAT.SG-OBL.SG.3PL",
+                            "morphemes": "dʲa-d-duʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "ɔnɛj dʲazuʔ, dʲazuʔ ɛkon ŋaʔ nʲiuʔ",
+            "words": [
+                {
+                    "wf": "ɔnɛj",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "Enets",
+                            "glosses_en": "Enets",
+                            "morphemes": "ɔnɛj"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲazuʔ",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-NOM.ЕД.3МН",
+                            "glosses_en": "place-NOM.SG.3PL",
+                            "morphemes": "dʲa-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 11,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "dʲazuʔ",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-NOM.ЕД.3МН",
+                            "glosses_en": "place-NOM.SG.3PL",
+                            "morphemes": "dʲa-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɛkon",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот-ЛОК.ЕД",
+                            "glosses_en": "this-LOC.SG",
+                            "morphemes": "ɛke-xon"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ŋaʔ",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "существовать(ipfv)-КОННЕГ",
+                            "glosses_en": "exist(ipfv)-CONNEG",
+                            "morphemes": "ŋa-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nʲiuʔ",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "ana": [
+                        {
+                            "glosses_ru": "НЕГ-3ЕД.S.CONTR",
+                            "glosses_en": "NEG-3SG.S.CONTR",
+                            "morphemes": "i-uʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "sɔjajzuʔ dʲazuʔ",
+            "words": [
+                {
+                    "wf": "sɔjajzuʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "be:born(pfv)-ПРИЧ.ANT-NOM.ЕД.3МН",
+                            "glosses_en": "be:born(pfv)-PTC.ANT-NOM.SG.3PL",
+                            "morphemes": "sɔja-j-zuʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲazuʔ",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-NOM.ЕД.3МН",
+                            "glosses_en": "place-NOM.SG.3PL",
+                            "morphemes": "dʲa-zuʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "narnoju ɔzaxuduʔ ɛu tozʔ nʲimʔ",
+            "words": [
+                {
+                    "wf": "narnoju",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "spring-ADV-RESTR.ПРИЛ",
+                            "glosses_en": "spring-ADV-RESTR.ADJ",
+                            "morphemes": "nara-no-ju"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɔzaxuduʔ",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "that:is:why-ОБЛ.ЕД.3МН",
+                            "glosses_en": "that:is:why-OBL.SG.3PL",
+                            "morphemes": "ɔzaxu-duʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɛu",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "здесь(dir)",
+                            "glosses_en": "here(dir)",
+                            "morphemes": "ɛu"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tozʔ",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "прийти(pfv)-ФУТ.КОННЕГ",
+                            "glosses_en": "come(pfv)-FUT.CONNEG",
+                            "morphemes": "to-d"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nʲimʔ",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "НЕГ-3МН.S.CONTR",
+                            "glosses_en": "NEG-3PL.S.CONTR",
+                            "morphemes": "i-mʔ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "ɔtuznoju anʲ purzi kantaʔ toni mud",
+            "words": [
+                {
+                    "wf": "ɔtuznoju",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "autumn-ADV-RESTR.ПРИЛ",
+                            "glosses_en": "autumn-ADV-RESTR.ADJ",
+                            "morphemes": "ɔtuze-no-ju"
+                        }
+                    ]
+                },
+                {
+                    "wf": "anʲ",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "and",
+                            "glosses_en": "and",
+                            "morphemes": "anʲ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "purzi",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "назад",
+                            "glosses_en": "backwards",
+                            "morphemes": "purzi"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kantaʔ",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-ФУТ-3МН.S",
+                            "glosses_en": "leave(pfv)-FUT-3PL.S",
+                            "morphemes": "kanʲe-da-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "toni",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "там(dir)",
+                            "glosses_en": "there(dir)",
+                            "morphemes": "toni"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mud",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 34,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC-ДАТ.ЕД",
+                            "glosses_en": "PLC-DAT.SG",
+                            "morphemes": "mo-d"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "sirada muɡoʃ",
+            "words": [
+                {
+                    "wf": "sirada",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "snow-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "snow-OBL.SG.3SG",
+                            "morphemes": "sira-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "muɡoʃ",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "PLC-ДУБ-КОНВ",
+                            "glosses_en": "PLC-DUR-CVB",
+                            "morphemes": "mo-ɡo-ʃ"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "sirej dʲaxada kantaØ",
+            "words": [
+                {
+                    "wf": "sirej",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "snow-ПРИЛ",
+                            "glosses_en": "snow-ADJ",
+                            "morphemes": "sira-j"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲaxada",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-ДАТ.ЕД-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "place-DAT.SG-OBL.SG.3SG",
+                            "morphemes": "dʲa-d-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kantaØ",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "оставить(pfv)-ФУТ-3ЕД.S",
+                            "glosses_en": "leave(pfv)-FUT-3SG.S",
+                            "morphemes": "kanʲe-da-Ø"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "narnoju kerta sɔjajda dʲaxada tozaØ",
+            "words": [
+                {
+                    "wf": "narnoju",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "spring-ADV-RESTR.ПРИЛ",
+                            "glosses_en": "spring-ADV-RESTR.ADJ",
+                            "morphemes": "nara-no-ju"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kerta",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "сам-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "self-OBL.SG.3SG",
+                            "morphemes": "kere-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sɔjajda",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "be:born(pfv)-ПРИЧ.ANT-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "be:born(pfv)-PTC.ANT-OBL.SG.3SG",
+                            "morphemes": "sɔja-j-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "dʲaxada",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "место-ДАТ.ЕД-ОБЛ.ЕД.3ЕД",
+                            "glosses_en": "place-DAT.SG-OBL.SG.3SG",
+                            "morphemes": "dʲa-d-da"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tozaØ",
+                    "wtype": "word",
+                    "off_start": 30,
+                    "off_end": 35,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "прийти(pfv)-ФУТ-3ЕД.S",
+                            "glosses_en": "come(pfv)-FUT-3SG.S",
+                            "morphemes": "to-da-Ø"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "ɔzaxuduʔ samaʔ nʲimʔ tʃirʔ toniz ɛkoz",
+            "words": [
+                {
+                    "wf": "ɔzaxuduʔ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "that:is:why-ОБЛ.ЕД.3МН",
+                            "glosses_en": "that:is:why-OBL.SG.3PL",
+                            "morphemes": "ɔzaxu-duʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "samaʔ",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "bird-МН",
+                            "glosses_en": "bird-PL",
+                            "morphemes": "sama-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nʲimʔ",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "НЕГ-3МН.S.CONTR",
+                            "glosses_en": "NEG-3PL.S.CONTR",
+                            "morphemes": "i-mʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tʃirʔ",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 26,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "летать(ipfv)-КОННЕГ",
+                            "glosses_en": "fly(ipfv)-CONNEG",
+                            "morphemes": "tʃir-ʔ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "toniz",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "ana": [
+                        {
+                            "glosses_ru": "там(dir)-АБЛ.ЕД",
+                            "glosses_en": "there(dir)-ABL.SG",
+                            "morphemes": "toni-xoz"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ɛkoz",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 37,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "ana": [
+                        {
+                            "glosses_ru": "этот-АБЛ.ЕД",
+                            "glosses_en": "this-ABL.SG",
+                            "morphemes": "ɛke-xoz"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        },
+        {
+            "text": "bɛuza, bɛuza",
+            "words": [
+                {
+                    "wf": "bɛuza",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "soon",
+                            "glosses_en": "soon",
+                            "morphemes": "bɛuza"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1
+                },
+                {
+                    "wf": "bɛuza",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "ana": [
+                        {
+                            "glosses_ru": "soon",
+                            "glosses_en": "soon",
+                            "morphemes": "bɛuza"
+                        }
+                    ]
+                }
+            ],
+            "lang": 1
+        }
+    ],
+    "meta": {
+        "author": "author",
+        "title": "Duck's nest - Endangered Languages and Cultures of Siberia",
+        "year": "",
+        "id": 1
+    }
+}
