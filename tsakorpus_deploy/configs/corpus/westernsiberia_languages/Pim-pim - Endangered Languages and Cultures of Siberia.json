@@ -1,0 +1,215 @@
+{
+    "sentences": [
+        {
+            "text": "pimpim|pimpim,",
+            "words": [
+                {
+                    "wf": "pimpim|pimpim",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 13,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "REFR",
+                            "glosses_en": "REFR",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1
+                }
+            ],
+            "lang": 2
+        },
+        {
+            "text": "aś-en χɔr-i|-li-j-ə-m,",
+            "words": [
+                {
+                    "wf": "aś-en",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "отец-2ЕД",
+                            "glosses_en": "father-2SG",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": "χɔr-i|-li-j-ə-m",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 21,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "draw-0-ИМПФ-ФРЕКВ-0-НМЛЗ.ПРФ",
+                            "glosses_en": "draw-0-IMPF-FREQ-0-NMLZ.PF",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 21,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2
+                }
+            ],
+            "lang": 2
+        },
+        {
+            "text": "χăns-ə-ŋ ńŏpaluw | săχ-en",
+            "words": [
+                {
+                    "wf": "χăns-ə-ŋ",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "decorated",
+                            "glosses_en": "decorated",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": "ńŏpaluw",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "теленок",
+                            "glosses_en": "calf",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": "|",
+                    "wtype": "punct",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2
+                },
+                {
+                    "wf": "săχ-en",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "ana": [
+                        {
+                            "glosses_ru": "прятать-2ЕД",
+                            "glosses_en": "hide-2SG",
+                            "morphemes": ""
+                        }
+                    ]
+                }
+            ],
+            "lang": 2
+        },
+        {
+            "text": "χŭli-l-a |χŭli-l-a.",
+            "words": [
+                {
+                    "wf": "χŭli-l-a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "get:dirty-NONPST-ПАС",
+                            "glosses_en": "get:dirty-NONPST-PAS",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": "|χŭli-l-a",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "ana": [
+                        {
+                            "glosses_ru": "get:dirty-NONPST-ПАС",
+                            "glosses_en": "get:dirty-NONPST-PAS",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2
+                }
+            ],
+            "lang": 2
+        },
+        {
+            "text": "pimpim|pimpim.",
+            "words": [
+                {
+                    "wf": "pimpim|pimpim",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 13,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "ana": [
+                        {
+                            "glosses_ru": "REFR",
+                            "glosses_en": "REFR",
+                            "morphemes": ""
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1
+                }
+            ],
+            "lang": 2
+        }
+    ],
+    "meta": {
+        "author": "author",
+        "title": "Pim-pim - Endangered Languages and Cultures of Siberia",
+        "year": "",
+        "id": 1
+    }
+}
