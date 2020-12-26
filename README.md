@@ -7,4 +7,6 @@
 
 В папке corpus лежат исходные файлы корпуса
 
+В папке transliteration – скрипты для перевода одной системы тегов в другую
+
 Сводная таблица с ссылками на источники с текстами: https://docs.google.com/spreadsheets/d/1nQgZLOfjv785GnDV5QUVeJ-_QmPUV2b--wPia3Im1kQ/edit#gid=0
