@@ -1,0 +1,505 @@
+хэбиде	-	-	-	-	-	xäebidʼe	xæbidʼe	xæbidʲe	-	хэбидя	-	holy	A	-
+лахнаку	-	-	-	-	-	laxnāku	laxnaku	lăxnaku	-	лаханако	-	story	N	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+я	-	-	-	-	-	jā	ja	ja	-	я	-	land	N	-
+мыдахана	-	-	-	-	-	mīdaxana	midaxana	miːdăxănă	-	мись	-	make:PtcpIpfv.Loc	V	-
+амкэрта	-	-	-	-	-	amkerta	amkerta	ămkertă	-	ңамгэ	-	what:Int.Conc.PxSg3	Pron	-
+яңкувы	-	-	-	-	-	jaŋkūwi	jaŋkuwi	jăŋkuːwi	-	яңгось	-	not exist:Narr.ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+хаерʼ	-	-	-	-	-	xājerʔ	xajerʔ	xajerʔ	-	хаер	-	sun	N	-
+яңкувы	-	-	-	-	-	jaŋkūwi	jaŋkuwi	jăŋkuːwi	-	яңгось	-	not exist:Narr.ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+пэбювы	-	-	-	-	-	pebuwi	pebuwi	pebuwi	-	пэвась	-	be dark:Narr.ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+ңопоы	-	-	-	-	-	ŋopoī	ŋopoi	ŋopoiː	-	ңопой	-	one	Qnt.Num	-
+сиде	-	-	-	-	-	śidʼe	śidʼe	sʲidʲe	-	сидя	-	two	Qnt.Num	-
+несхаʼ	-	-	-	-	-	ńeśxāˈʔ	ńeśxaʔ	nʲesʲxaʔ	-	не	-	woman:Conc.Du	N	-
+хасовахаʼ	-	-	-	-	-	xāsowaxāʔ	xasowaxaʔ	xasowăxaʔ	-	хасава	-	man:Du	N	-
+таневахеʼ	-	-	-	-	-	tańewaxeʔ	tańewaxeʔ	tănʲewăxeʔ	-	танясь	-	exist:Narr.ScDu3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+нябихыʼ	-	-	-	-	-	ńābixīʔ	ńabixiʔ	nʲabixiːʔ	-	няби	-	other:Indet.Du	Pron	-
+ненюдиʼ	-	-	-	-	-	ńeńūdʼīʔ	ńeńudʼiʔ	nʲenʲuːdʲiːʔ	-	неню	-	daughter:PxDu3	N	-
+таневы	-	-	-	-	-	tańewī	tańewi	tănʲewiː	-	танясь	-	exist:Narr.ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+нябихыʼ	-	-	-	-	-	ńābixīʔ	ńabixiʔ	nʲabixiːʔ	-	няби	-	other:Indet.Du	Pron	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+нюдиʼ	-	-	-	-	-	ńūdʼīʔ	ńudʼiʔ	nʲuːdʲiːʔ	-	ню	-	child:PxDu3	N	-
+таневы	-	-	-	-	-	tańewī	tańewi	tănʲewiː	-	танясь	-	exist:Narr.ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+таремʼ	-	-	-	-	-	taŕemʔ	taŕemʔ	tărʲemʔ	-	таремʼ	-	so	Adv.Manner	-
+понʼ	-	-	-	-	-	ponʔ	ponʔ	ponʔ	-	понʼ	-	long	Adv.Temp	-
+илесетыʼ	-	-	-	-	-	jīlʼeśetīʔ	jilʼeśetiʔ	jiːlʲesʲetiːʔ	-	илесь	-	live:Freq.ScPl3	V	-
+хэвʼ	-	-	-	-	-	xäewʔ	xæwʔ	xæwʔ	-	хэвʼ	-	short	Adv.Temp	-
+илесетыʼ	-	-	-	-	-	jīlʼeśetīʔ	jilʼeśetiʔ	jiːlʲesʲetiːʔ	-	илесь	-	live:Freq.ScPl3	V	-
+ңобʼ	-	-	-	-	-	ŋobʔ	ŋobʔ	ŋobʔ	-	ңобʼ	-	one	Qnt.Num	-
+тане	-	-	-	-	-	tańe	tańe	tănʲe	-	таняʼ	-	to there:Spat.Dat	Adv	-
+хуна	-	-	-	-	-	xūna	xuna	xuːnă	-	хуна	-	where:Indet	Pron	-
+няби	-	-	-	-	-	ńābi	ńabi	nʲabi	-	няби	-	other:Indet	Pron	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+манама	-	-	-	-	-	mānama	manama	manămă	-	манзь	-	tell:Narr.ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+няве	-	-	-	-	-	ńaweˈ	ńawe	nʲăwe	-	ня	-	friend:PxSg1	N	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+таремʼ	-	-	-	-	-	taremʔ	taremʔ	tăremʔ	-	таремʼ	-	so	Adv.Manner	-
+иле	-	-	-	-	-	jīlʼe	jilʼe	jiːlʲe	-	илесь	-	live:Ger	V	-
+вево	-	-	-	-	-	wewo	wewo	wewo	-	вэва	-	bad	A	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+нерняʼ	-	-	-	-	-	ńerńāʔ	ńerńaʔ	nʲernʲaʔ	-	нерняʼ	-	forward:Dat	Po	-
+ян-тер	-	-	-	-	-	jān-tʼer	jan-tʼer	jan-tʲer	-	я-тер	-	land:Gen-inhabitant	N-N	-
+ненецемаʼ	-	-	-	-	-	ńenećemaʔ	ńenećemaʔ	nʲeneʦʲemăʔ	-	ненэцьʼ	-	men:Pl.PxPl1	N	-
+ханцер	-	-	-	-	-	xańćeˈr	xańćer	xănʲʦʲer	-	ханзерʼ	-	how:Int	Pron	-
+илеңкуʼ	-	-	-	-	-	jīlʼeŋkūʔ	jilʼeŋkuʔ	jiːlʲeŋkuːʔ	-	илесь	-	live:Fut.ScPl3	V	-
+пэвдяхана	-	-	-	-	-	päewdʼaxāna	pæwdʼaxana	pæwdʲăxană	-	пэвдя	-	darkness:Loc	N	-
+?	-	-	-	-	-	?	?	?	-	?	-	?	?	-
+маныʼ	-	-	-	-	-	maniʔ	maniʔ	măniʔ	-	маниʼ	-	we:Du1	Pron.Pers	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+нюныʼ	-	-	-	-	-	ńūniʔ	ńuniʔ	nʲuːniʔ	-	ню	-	child:Pl.Acc.PxDu1	N	-
+ңэдаптаханыʼ	-	-	-	-	-	ŋäedaptaˈxāniʔ	ŋædaptaxaniʔ	ŋædăptăxaniʔ	-	ңэдабтась	-	send:OcDu1	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+падар	-	-	-	-	-	padār	padar	pădar	-	пыдар	-	you:Sg2	Pron.Pers	-
+ненюр	-	-	-	-	-	ńeńūr	ńeńur	nʲenʲuːr	-	неню	-	daughter:PxSg1	N	-
+хаерңэ	-	-	-	-	-	xājerŋäe	xajerŋæ	xajerŋæ	-	хаер	-	sun:Tra	N	-
+хэйе	-	-	-	-	-	xäeje	xæje	xæje	-	хэсь	-	leave:Imp.ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+мань	-	-	-	-	-	mań	mań	mănʲ	-	мань	-	I:Sg1	Pron.Pers	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+ню	-	-	-	-	-	ńū	ńu	nʲuː	-	ню	-	child	N	-
+ирыңэ	-	-	-	-	-	jirīŋäe	jiriŋæ	jiriːŋæ	-	ирий	-	moon:Tra	N	-
+ңэдаптаңкув	-	-	-	-	-	ŋäedaptaˈŋkūw	ŋædaptaŋkuw	ŋædăptăŋkuːw	-	ңэдабтась	-	send:Fut.OcSg1	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+хэванти	-	-	-	-	-	xäewańtʼīˈ	xæwańtʼi	xæwănʲtʲiː	-	хэсь	-	leave:NA.Gen.PxDu3	V	-
+нерне	-	-	-	-	-	ńerńe	ńerńe	nʲernʲe	-	нерняʼ	-	forward:Dat	Po	-
+саце	-	-	-	-	-	saće	saće	săʦʲe	-	саць	-	very	Adv.Manner	-
+саво	-	-	-	-	-	sawo	sawo	săwo	-	сава	-	good	A	-
+панеʼна	-	-	-	-	-	paneʔna	paneʔna	păneʔnă	-	паны	-	clothes:Dat	N	-
+ембяце	-	-	-	-	-	jembaˈće	jembaće	jembăʦʲe	-	ембаць	-	dress:Ger	V	-
+тараңахаʼ	-	-	-	-	-	tārāŋaxāʔ	taraŋaxaʔ	taraŋăxaʔ	-	тарась	-	need:Co-S/O.ScDu3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+няби	-	-	-	-	-	ńābi	ńabi	nʲabi	-	няби	-	other:Indet	Pron	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+ненасяңоʼ	-	-	-	-	-	ńenaśaŋoʔ	ńenaśaŋoʔ	nʲenăsʲăŋoʔ	-	?ненасяңоʼ?	-	allright	Interj	-
+таремʼ	-	-	-	-	-	taremʔ	taremʔ	tăremʔ	-	таремʼ	-	so	Adv.Manner	-
+саво	-	-	-	-	-	sawo	sawo	săwo	-	сава	-	good	A	-
+ныв-ңаʼ	-	-	-	-	-	niwŋaʔ	niwŋaʔ	niwŋăʔ	-	нись-ңэсь	-	not:ScSg3.Clt-be:Cng	V.Aux-V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+ңавна	-	-	-	-	-	ŋāwna	ŋawna	ŋawnă	-	ңавна	-	previously	Adv.Temp	-
+пэвдяхана	-	-	-	-	-	päewdʼaxāna	pæwdʼaxana	pæwdʲăxană	-	пэвдя	-	darkness:Loc	N	-
+ханцерʼ	-	-	-	-	-	xańćeˈrʔ	xańćerʔ	xănʲʦʲerʔ	-	ханзерʼ	-	how:Int	Pron	-
+илеңкуваʼ	-	-	-	-	-	jīlʼeŋkūwaʔ	jilʼeŋkuwaʔ	jiːlʲeŋkuːwăʔ	-	илесь	-	live:Fut.ScPl1	V	-
+?	-	-	-	-	-	?	?	?	-	?	-	?	?	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+нехеюдиʼ	-	-	-	-	-	ńexejūdʼiʔ	ńexejudʼiʔ	nʲexejuːdʲiʔ	-	не	-	wife:Du.PxDu3	N	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	again	Adv.Temp	-
+махаʼ	-	-	-	-	-	māxāʔ	maxaʔ	maxaʔ	-	манзь	-	tell:ScDu3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+ибʼ	-	-	-	-	-	jībʔ	jibʔ	jiːbʔ	-	ибʼ	-	although	CC	-
+ңэдаптаваюнаʼ	-	-	-	-	-	ŋäedaptāwājunāʔ	ŋædaptawajunaʔ	ŋædăptawajunaʔ	-	ңэдабтась	-	send:NA.Du.Gen.PxPl1	V	-
+ңэись	-	-	-	-	-	ŋäejīś	ŋæjiś	ŋæjiːsʲ	-	ңэсь	-	be:Imp.ScSg3.Pst	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+ханцерʼ	-	-	-	-	-	xańćeˈrʔ	xańćerʔ	xănʲʦʲerʔ	-	ханзерʼ	-	how:Int	Pron	-
+ңэдаптаңкуюнаʼ	-	-	-	-	-	ŋäedaptaŋkūˈjunāʔ	ŋædaptaŋkujunaʔ	ŋædăptăŋkuːjunaʔ	-	ңэдабтась	-	send:Fut.Co-O-Du.OcPl1.Du	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+та	-	-	-	-	-	tāˈ	ta	ta	-	та	-	there:Spat	Adv	-
+хуна	-	-	-	-	-	xuna	xuna	xună	-	хуна	-	where:Indet	Pron	-
+янʼ	-	-	-	-	-	jānʔ	janʔ	janʔ	-	я	-	land:Dat	N	-
+ненаʼ	-	-	-	-	-	ńenaʔ	ńenaʔ	nʲenăʔ	-	ненаʼ	-	too	Adv.Manner	-
+пырце-нюʼ	-	-	-	-	-	pirće-ńuʔ	pirće-ńuʔ	pirʦʲe-nʲuʔ	-	пирця-нись	-	high-not:ScSg3	Aux	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тикад	-	-	-	-	-	tʼikād	tʼikad	tʲikad	-	тикад	-	from there:Spat.Abl	Adv	-
+падиʼ	-	-	-	-	-	padʼiʔ	padʼiʔ	pădʲiʔ	-	пыдиʼ	-	they:Du3	Pron.Pers	-
+махаʼ	-	-	-	-	-	māxāʔ	maxaʔ	maxaʔ	-	манзь	-	tell:ScDu3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+нумʼ	-	-	-	-	-	numʔ	numʔ	numʔ	-	нумʼ	-	Num	Proper	-
+хынцелиʼ	-	-	-	-	-	xińćeˈlʼiʔ	xińćelʼiʔ	xinʲʦʲelʲiʔ	-	ханзерʼ	-	how:Int.Lim	Pron	-
+табедапцекэхеюда	-	-	-	-	-	tābedapcekexejūda	tabedapcekexejuda	tabedăpʦekexejuːdă	-	табадас	-	point:Obl.Co-O-Du.OcSg3.Du	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+таремʼ	-	-	-	-	-	taŕemʔ	taŕemʔ	tărʲemʔ	-	таремʼ	-	so	Adv.Manner	-
+лахнанантуʼ	-	-	-	-	-	laxnānāntūʔ	laxnanantuʔ	lăxnanantuːʔ	-	лаханась	-	talk:PtcpIpfv.Gen.PxPl3	V	-
+пыхыд	-	-	-	-	-	pixīd	pixid	pixiːd	-	пи	-	from out:Spat.Abl	Adv	-
+ңобʼ	-	-	-	-	-	ŋobʔ	ŋobʔ	ŋobʔ	-	ңобʼ	-	one	Qnt.Num	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+мятан	-	-	-	-	-	ḿātan	ḿatan	mʲatăn	-	мяʼ	-	chum:Dat	N	-
+тю	-	-	-	-	-	tʼū	tʼu	tʲuː	-	тюсь	-	enter:ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+яптаʼ	-	-	-	-	-	japtāʔ	japtaʔ	jăptaʔ	-	ябтанʼ	-	please	Interj	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+хамадаʼ	-	-	-	-	-	xamādāʔ	xamadaʔ	xămadaʔ	-	хаʼманзь	-	say what:Sc2Pl	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+амкэмʼ	-	-	-	-	-	amkeˈmʔ	amkemʔ	ămkemʔ	-	ңамгэ	-	what:Int.Acc	Pron	-
+вадедаʼ	-	-	-	-	-	wādʼedāʔ	wadʼedaʔ	wadʲedaʔ	-	вадець	-	tell:Sc2Pl	V	-
+?	-	-	-	-	-	?	?	?	-	?	-	?	?	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+падуʼ	-	-	-	-	-	padūʔ	paduʔ	păduːʔ	-	пыдоʼ	-	they:Pl3	Pron.Pers	-
+маʼ	-	-	-	-	-	māʔ	maʔ	maʔ	-	манзь	-	tell:ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+яңку	-	-	-	-	-	jaŋkū	jaŋku	jăŋkuː	-	яӈго	-	no	Part	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+саце	-	-	-	-	-	saće	saće	săʦʲe	-	саць	-	very	Adv.Manner	-
+ңарка	-	-	-	-	-	ŋārka	ŋarka	ŋarkă	-	ңарка	-	big	A	-
+серкавмʼ	-	-	-	-	-	śerkawmʔ	śerkawmʔ	sʲerkăwmʔ	-	серʼ	-	matter:Nposs.Acc	N	-
+нываʼ	-	-	-	-	-	nīwaʔ	niwaʔ	niːwăʔ	-	нись	-	not:ScPl1	V.Aux	-
+вадесʼ	-	-	-	-	-	wādʼesʔ	wadʼesʔ	wadʲesʔ	-	вадець	-	tell:Cng	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+манеʼ	-	-	-	-	-	mańeʔ	mańeʔ	mănʲeʔ	-	маняʼ	-	we:Pl1	Pron.Pers	-
+нюхуюнаʼ	-	-	-	-	-	ńūxujūnaʔ	ńuxujunaʔ	nʲuːxujuːnăʔ	-	ню	-	child:Du.PxPl1	N	-
+ңэдаптаванʼ	-	-	-	-	-	ŋäedaptāˈwānʔ	ŋædaptawanʔ	ŋædăptawanʔ	-	ңэдабтась	-	send:Du.PxPl1	N	-
+харваваʼ	-	-	-	-	-	xarwāwaʔ	xarwawaʔ	xărwawăʔ	-	харвась	-	want:Du.PxPl1	N	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+ңавна	-	-	-	-	-	ŋāwna	ŋawna	ŋawnă	-	ңавна	-	previously	Adv.Temp	-
+пэвде	-	-	-	-	-	päewdʼe	pæwdʼe	pæwdʲe	-	пэвдя	-	dark	A	-
+яхана	-	-	-	-	-	jaxāna	jaxana	jăxană	-	я	-	land:Loc	N	-
+иле	-	-	-	-	-	jīlʼe	jilʼe	jiːlʲe	-	илесь	-	live:Ger	V	-
+ямаваʼ	-	-	-	-	-	jāmāwaʔ	jamawaʔ	jamawăʔ	-	яʼмась	-	not able to:ScPl1	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тадаңоʼ	-	-	-	-	-	tādaŋoʔ	tadaŋoʔ	tadăŋoʔ	-	тад	-	then:Emph	Adv.Temp	-
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+нерняʼ	-	-	-	-	-	ńerńāʔ	ńerńaʔ	nʲernʲaʔ	-	нерняʼ	-	forward:Dat	Po	-
+ян-тер	-	-	-	-	-	jāń-tʼer	jań-tʼer	janʲ-tʲer	-	я-тер	-	land:Gen-inhabitant	N-N	-
+ненецʼ	-	-	-	-	-	ńenećʔ	ńenećʔ	nʲeneʦʲʔ	-	ненэцьʼ	-	man	N	-
+хынцерʼ	-	-	-	-	-	xińćeˈrʔ	xińćerʔ	xinʲʦʲerʔ	-	ханзерʼ	-	how:Int	Pron	-
+илеңкуʼ	-	-	-	-	-	jīlʼeŋkūʔ	jilʼeŋkuʔ	jiːlʲeŋkuːʔ	-	илесь	-	live:Fut.ScPl3	V	-
+пэвдяхана	-	-	-	-	-	päewdʼaxāna	pæwdʼaxana	pæwdʲăxană	-	пэвдя	-	darkness:Loc	N	-
+?	-	-	-	-	-	?	?	?	-	?	-	?	?	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+хэы	-	-	-	-	-	xäeī	xæi	xæiː	-	хэй	-	whoop	Interj	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+амкэ	-	-	-	-	-	amkeˈ	amke	ămke	-	ңамгэ	-	what:Int	Pron	-
+ңарка	-	-	-	-	-	ŋārka	ŋarka	ŋarkă	-	ңарка	-	big	A	-
+серʼ	-	-	-	-	-	śerʔ	śerʔ	sʲerʔ	-	серʼ	-	matter	N	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+мань	-	-	-	-	-	mań	mań	mănʲ	-	мань	-	I:Sg1	Pron.Pers	-
+ңэдаптаңкуюн	-	-	-	-	-	ŋäedaptaŋkūjun	ŋædaptaŋkujun	ŋædăptăŋkuːjun	-	ңэдабтась	-	send:Fut.Co-O-Du.OcSg1.Du	V	-
+мынхан	-	-	-	-	-	minxan	minxan	minxăn	-	минхан	-	in a moment	Adv.Temp	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+ңада	-	-	-	-	-	ŋadā	ŋada	ŋăda	-	ңэда	-	now then	Interj	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+пынʼ	-	-	-	-	-	pīnʔ	pinʔ	piːnʔ	-	пынʼ	-	out:Spat.Dat	Adv	-
+тарпаяхамтʼ	-	-	-	-	-	tarpajaxamtʔ	tarpajaxamtʔ	tărpăjăxămtʔ	-	тарпась	-	go out:Imp.RDu3	V	-
+!	-	-	-	-	-	!	!	!	-	!	-	!	!	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+пынʼ	-	-	-	-	-	pīnʔ	pinʔ	piːnʔ	-	пынʼ	-	out:Spat.Dat	Adv	-
+тарпараңаюдуʼ	-	-	-	-	-	tarparaŋāˈjūdūʔ	tarparaŋajuduʔ	tărpărăŋajuːduːʔ	-	тарпарась	-	take out:Co-O-Du.OcPl3.Du	V	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+ңацекэхеʼ	-	-	-	-	-	ŋaćekexeʔ	ŋaćekexeʔ	ŋăʦʲekexeʔ	-	ңацекы	-	child:Du	N	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+хасаво	-	-	-	-	-	xāsawo	xasawo	xasăwo	-	хасава	-	man	N	-
+ңопоыʼ	-	-	-	-	-	ŋopoīʔ	ŋopoiʔ	ŋopoiːʔ	-	ңопой	-	one	Qnt.Num	-
+посхалңаюда	-	-	-	-	-	posxalŋāˈjūda	posxalŋajuda	posxălŋajuːdă	-	посхалць	-	blow:Co-O-Du.OcSg3Du	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+ңацекэхеʼ	-	-	-	-	-	ŋaćekexeʔ	ŋaćekexeʔ	ŋăʦʲekexeʔ	-	ңацекы	-	child:Du	N	-
+леморңэ	-	-	-	-	-	lemoˈrŋäe	lemorŋæ	lemorŋæ	-	лэмор	-	skylark:Tra	N	-
+тийхаʼ	-	-	-	-	-	tʼījxaʔ	tʼijxaʔ	tʲiːjxăʔ	-	тись	-	fly:ScDu3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+хонаыдʼ	-	-	-	-	-	xonāīdʔ	xonaidʔ	xonaiːdʔ	-	хонась	-	sleep:Co-R.RPl3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+хуняна	-	-	-	-	-	xūńāna	xuńana	xuːnʲană	-	хуняна	-	morning	Adv.Temp	-
+юркмахадантуʼ	-	-	-	-	-	jurkmāxadantuʔ	jurkmaxadantuʔ	jurkmaxădăntuʔ	-	юркась	-	wake up:NA.Abl.PxPl3	V	-
+тарце	-	-	-	-	-	tarće	tarće	tărʦʲe	-	тарця	-	such	Pron.Dem	-
+хаерада	-	-	-	-	-	xājerāda	xajerada	xajeradă	-	хаерёсь	-	shine:PtcpIpfv.Abs	V	-
+ялеңэ	-	-	-	-	-	jālʼeŋäe	jalʼeŋæ	jalʲeŋæ	-	яля	-	day:Tra	N	-
+хэывы	-	-	-	-	-	xäeiwīˈ	xæiwi	xæiwiː	-	хэсь	-	leave:Narr.ScSg3	V	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+сямян	-	-	-	-	-	śāḿān	śaḿan	sʲamʲan	-	сямян	-	every:Gener	Pron	-
+ян	-	-	-	-	-	jān	jan	jan	-	я	-	land:Gen	N	-
+табёрʼ	-	-	-	-	-	tāborʔ	taborʔ	taborʔ	-	таборʼ	-	dust	N	-
+малʼ	-	-	-	-	-	mālʔ	malʔ	malʔ	-	малʼ	-	all	Adv.Manner	-
+ңадиʼ	-	-	-	-	-	ŋadʼiʔ	ŋadʼiʔ	ŋădʲiʔ	-	ңадясь	-	show up:ScPl3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+павсюменяна	-	-	-	-	-	pāwśumeńāna	pawśumeńana	pawsʲumenʲană	-	пэвсюмняна	-	in the evening	Adv.Temp	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	again	Adv.Temp	-
+иры	-	-	-	-	-	jirī	jiri	jiriː	-	ирий	-	moon	N	-
+ялеңэ	-	-	-	-	-	jālʼeŋäe	jalʼeŋæ	jalʲeŋæ	-	яля	-	day:Tra	N	-
+хайе	-	-	-	-	-	xaje	xaje	xăje	-	хэсь	-	leave:ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+ңоб-таремʼ	-	-	-	-	-	ŋob-taŕemʔ	ŋob-taŕemʔ	ŋob-tărʲemʔ	-	ңобтаремʼ	-	also	Adv.Manner	-
+яле	-	-	-	-	-	jālʼe	jalʼe	jalʲe	-	яля	-	light	A	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+сяантʼ	-	-	-	-	-	śaāntʔ	śaantʔ	sʲăantʔ	-	сяндʼ	-	how much:Indet	Pron	-
+хунатʼ	-	-	-	-	-	xunatʔ	xunatʔ	xunătʔ	-	хунатʼ	-	where from:Indet	Pron	-
+илебятуңоʼ	-	-	-	-	-	jīlʼebatūŋoʔ	jilʼebatuŋoʔ	jiːlʲebătuːŋoʔ	-	илесь	-	live:GerMod.Emph.PxPl3	V	-
+падуʼ	-	-	-	-	-	padūʔ	paduʔ	păduːʔ	-	пыдоʼ	-	they:Pl3	Pron.Pers	-
+маʼ	-	-	-	-	-	māʔ	maʔ	maʔ	-	манзь	-	tell:ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+ти	-	-	-	-	-	tʼī	tʼi	tʲiː	-	ти	-	here:Spat	Adv	-
+манеʼ	-	-	-	-	-	mańeʔ	mańeʔ	mănʲeʔ	-	маняʼ	-	we:Pl1	Pron.Pers	-
+нюхуюнаʼ	-	-	-	-	-	ńūxujūnaʔ	ńuxujunaʔ	nʲuːxujuːnăʔ	-	ню	-	child:Du.PxPl1	N	-
+несаңэ	-	-	-	-	-	ńesaŋäe	ńesaŋæ	nʲesăŋæ	-	нес	-	couple:Tra	N	-
+хайехаʼ	-	-	-	-	-	xajexāʔ	xajexaʔ	xăjexaʔ	-	хэсь	-	leave:ScDu3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+ирыюмʼ	-	-	-	-	-	jirījumʔ	jirijumʔ	jiriːjumʔ	-	ирий	-	moon:Pol	N	-
+хасаваңэ	-	-	-	-	-	xāsawāŋäe	xasawaŋæ	xasăwaŋæ	-	хасава	-	man:Tra	N	-
+хайе	-	-	-	-	-	xaje	xaje	xăje	-	хэсь	-	leave:ScSg3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+неюмʼ	-	-	-	-	-	ńejumʔ	ńejumʔ	nʲejumʔ	-	не	-	woman:Pol	N	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+неңэ	-	-	-	-	-	ńeŋäe	ńeŋæ	nʲeŋæ	-	не	-	wife:Tra	N	-
+хайе	-	-	-	-	-	xaje	xaje	xăje	-	хэсь	-	leave:ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+таремʼ	-	-	-	-	-	taŕemʔ	taŕemʔ	tărʲemʔ	-	таремʼ	-	so	Adv.Manner	-
+илевантуʼ	-	-	-	-	-	jīlʼewāntūʔ	jilʼewantuʔ	jiːlʲewantuːʔ	-	илесь	-	live:NA.Gen.PxPl3	V	-
+серʼ	-	-	-	-	-	śerʔ	śerʔ	sʲerʔ	-	серʼ	-	matter	N	-
+маʼ	-	-	-	-	-	māʔ	maʔ	maʔ	-	манзь	-	tell:ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+манеʼ	-	-	-	-	-	mańeʔ	mańeʔ	mănʲeʔ	-	маняʼ	-	we:Pl1	Pron.Pers	-
+тадебядаваʼ	-	-	-	-	-	tādʼeb́ādawaʔ	tadʼeb́adawaʔ	tadʲebʲadăwăʔ	-	тадебя	-	shaman:PdstPl1	N	-
+пюлхаваʼ	-	-	-	-	-	ṕūlxawaʔ	ṕulxawaʔ	pʲuːlxăwăʔ	-	пюлась	-	start searching:Hort.ScPl1	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+нюхуюнаʼ	-	-	-	-	-	ńūxujūnaʔ	ńuxujunaʔ	nʲuːxujuːnăʔ	-	ню	-	child:Du.PxPl1	N	-
+хынцерʼ	-	-	-	-	-	xińćeˈrʔ	xińćerʔ	xinʲʦʲerʔ	-	ханзерʼ	-	how:Int	Pron	-
+илевамʼ	-	-	-	-	-	jīlʼewamʔ	jilʼewamʔ	jiːlʲewămʔ	-	илесь	-	live:NA.Acc	V	-
+хороптаись	-	-	-	-	-	xoroˈptājīś	xoroptajiś	xoroptajiːsʲ	-	харабтёсь	-	happen:ScSg3.Pst	V	-
+!	-	-	-	-	-	!	!	!	-	!	-	!	!	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тадебемʼ	-	-	-	-	-	tādʼebemʔ	tadʼebemʔ	tadʲebemʔ	-	тадебя	-	shaman:Acc	N	-
+пюла	-	-	-	-	-	ṕūlā	ṕula	pʲuːla	-	пюлась	-	start searching:ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тикантуʼ	-	-	-	-	-	tʼikāntūʔ	tʼikantuʔ	tʲikantuːʔ	-	тиканʼ	-	then:Spat.Loc.PxPl3	Adv	-
+тадебемʼ	-	-	-	-	-	tādʼebemʔ	tadʼebemʔ	tadʲebemʔ	-	тадебя	-	shaman:Acc	N	-
+хоʼ	-	-	-	-	-	xoʔ	xoʔ	xoʔ	-	хось	-	find:ScPl3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тадебямтуʼ	-	-	-	-	-	tādʼeb́āmtūʔ	tadʼeb́amtuʔ	tadʲebʲamtuːʔ	-	тадебя	-	shaman:Acc.PxPl3	N	-
+меладуʼ	-	-	-	-	-	melāduʔ	meladuʔ	meladuʔ	-	мэлась	-	keep:OcPl3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тадебядуʼ	-	-	-	-	-	tādʼeb́āduʔ	tadʼeb́aduʔ	tadʲebʲaduʔ	-	тадебя	-	shaman:PxPl3	N	-
+няхарʼ	-	-	-	-	-	ńāxarʔ	ńaxarʔ	nʲaxărʔ	-	няхарʼ	-	three	Qnt.Num	-
+ңэдалава	-	-	-	-	-	ŋäedalawā	ŋædalawa	ŋædălăwa	-	ңэдалась	-	ride in sleigh:NA	V	-
+хэңкада	-	-	-	-	-	xeŋkāˈda	xeŋkada	xeŋkadă	-	хэңгадась	-	slip:ScSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+ңавеʼ	-	-	-	-	-	ŋaweʔ	ŋaweʔ	ŋăweʔ	-	ңамгэ	-	what:Int.Pl	Pron	-
+ёлцеңкаʼна	-	-	-	-	-	jolʼćeŋkaʔna	jolʼćeŋkaʔna	jolʲʦʲeŋkăʔnă	-	ёльцьʼ	-	period:Loc	N	-
+ныкэптедада	-	-	-	-	-	nīkeptedāda	nikeptedada	niːkeptedadă	-	ныкабтэдась	-	stop:OcSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+нюхуюдаʼ	-	-	-	-	-	ńuxūjūdaʔ	ńuxujudaʔ	nʲuxuːjuːdăʔ	-	ню	-	child:Du.Gen.PxPl2	N	-
+неню	-	-	-	-	-	ńeńū	ńeńu	nʲenʲuː	-	неню	-	daughter	N	-
+мале	-	-	-	-	-	malʼe	malʼe	mălʲe	-	мале	-	already	Adv.Temp	-
+ховехеʼ	-	-	-	-	-	xowexeʔ	xowexeʔ	xowexeʔ	-	хось	-	find:Narr.ScDu3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+падуʼ	-	-	-	-	-	padūʔ	paduʔ	păduːʔ	-	пыдоʼ	-	they:Pl3	Pron.Pers	-
+маидʼ	-	-	-	-	-	majīdʔ	majidʔ	măjiːdʔ	-	маясь	-	be glad:RPl3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+малʼ	-	-	-	-	-	mālʔ	malʔ	malʔ	-	малʼ	-	all	Adv.Manner	-
+пэи	-	-	-	-	-	peji	peji	peji	-	пеʼ	-	palm:Pl	N	-
+ңобтʼ	-	-	-	-	-	ŋobtʔ	ŋobtʔ	ŋobtʔ	-	ңобтʼ	-	together	Adv.Manner	-
+пэыдеʼ	-	-	-	-	-	peīdʼeʔ	peidʼeʔ	peiːdʲeʔ	-	пейдесь	-	strike:ScPl3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+маʼ	-	-	-	-	-	māʔ	maʔ	maʔ	-	манзь	-	tell:ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+тедаб	-	-	-	-	-	tʼedāb	tʼedab	tʲedab	-	тедаʼ	-	now	Adv.Temp	-
+манеʼ	-	-	-	-	-	mańeʔ	mańeʔ	mănʲeʔ	-	маняʼ	-	we:Pl1	Pron.Pers	-
+нюхуюнаʼ	-	-	-	-	-	ńuxūjūnaʔ	ńuxujunaʔ	nʲuxuːjuːnăʔ	-	ню	-	child:Du.Gen.PxPl1	N	-
+илева	-	-	-	-	-	jīlʼewa	jilʼewa	jiːlʲewă	-	илесь	-	live:NA	V	-
+ям-панʼ	-	-	-	-	-	jām-panʔ	jam-panʔ	jam-pănʔ	-	ямбанʼ	-	during:Dat	Po	-
+ңобкана	-	-	-	-	-	ŋobkana	ŋobkana	ŋobkănă	-	ңобкана	-	together	Adv.Manner	-
+илеңкуʼ	-	-	-	-	-	jīlʼeŋkūˈʔ	jilʼeŋkuʔ	jiːlʲeŋkuːʔ	-	илесь	-	live:Fut.Cng	V	-
+ныхымʼ	-	-	-	-	-	nīximʔ	niximʔ	niːximʔ	-	нись	-	not:ScDu3.Clt	V.Aux	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+тадебе	-	-	-	-	-	tādʼebe	tadʼebe	tadʲebe	-	тадебя	-	shaman	N	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+мань	-	-	-	-	-	mań	mań	mănʲ	-	мань	-	I:Sg1	Pron.Pers	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+падараʼ	-	-	-	-	-	padāraʔ	padaraʔ	pădarăʔ	-	пыдараʼ	-	you:Pl2	Pron.Pers	-
+нюхуютаʼ	-	-	-	-	-	ńūxujutaʔ	ńuxujutaʔ	nʲuːxujutăʔ	-	ню	-	child:Du.Gen.PxPl2	N	-
+ненюмʼ	-	-	-	-	-	ńeńumʔ	ńeńumʔ	nʲenʲumʔ	-	неню	-	daughter:Acc	N	-
+неданыʼ	-	-	-	-	-	ńedaniʔ	ńedaniʔ	nʲedăniʔ	-	не	-	wife:Gen.PdstSg1	N	-
+меванць	-	-	-	-	-	mewāńć	mewańć	mewanʲʦʲ	-	мэсь	-	take:Sup	V	-
+хэванʼ	-	-	-	-	-	xäewānʔ	xæwanʔ	xæwanʔ	-	хэсь	-	leave:NA.Dat	V	-
+харвадмʼ	-	-	-	-	-	xarwādmʔ	xarwadmʔ	xărwadmʔ	-	харвась	-	want:ScSg1	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+паду	-	-	-	-	-	padū	padu	păduː	-	пыдоʼ	-	they:Pl3	Pron.Pers	-
+маʼ	-	-	-	-	-	māʔ	maʔ	maʔ	-	манзь	-	tell:ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+таремʼ	-	-	-	-	-	taŕemʔ	taŕemʔ	tărʲemʔ	-	таремʼ	-	so	Adv.Manner	-
+саво	-	-	-	-	-	sawo	sawo	săwo	-	сава	-	good	A	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+мараʼ	-	-	-	-	-	māraʔ	maraʔ	marăʔ	-	мараʼ	-	fine	Adv.Manner	-
+нюхуюнаʼ	-	-	-	-	-	ńūxujūnaʔ	ńuxujunaʔ	nʲuːxujuːnăʔ	-	ню	-	child:Du.Gen.PxPl1	N	-
+нюмʼ	-	-	-	-	-	ńumʔ	ńumʔ	nʲumʔ	-	ню	-	child:Acc	N	-
+манетаʼ	-	-	-	-	-	maneˈtaʔ	manetaʔ	mănetăʔ	-	маниетась	-	sight:Cng	V	-
+нывамʼ	-	-	-	-	-	niwāmʔ	niwamʔ	niwamʔ	-	нись	-	not:ScPl1.Clt	V.Aux	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+тикы	-	-	-	-	-	tʼikī	tʼiki	tʲikiː	-	тикы	-	this	Pron.Dem	-
+тадебе	-	-	-	-	-	tādʼebe	tadʼebe	tadʲebe	-	тадебя	-	shaman	N	-
+пенцерцаваы	-	-	-	-	-	ṕenćercawāī	ṕenćercawai	pʲenʦʲerʦăwaiː	-	пензерʼ	-	shaman drum:Nposs	N	-
+ирынʼ	-	-	-	-	-	jirīnʔ	jirinʔ	jiriːnʔ	-	ирий	-	moon:Dat	N	-
+пяда	-	-	-	-	-	ṕāda	ṕada	pʲadă	-	пясь	-	leave:OcSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+ирынʼ	-	-	-	-	-	jirīnʔ	jirinʔ	jiriːnʔ	-	ирий	-	moon:Dat	N	-
+тэывыʼ	-	-	-	-	-	täeiwīʔ	tæiwiʔ	tæiwiːʔ	-	тэвась	-	arrive:RSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
+ирынʼ	-	-	-	-	-	jirīnʔ	jirinʔ	jiriːnʔ	-	ирий	-	moon:Dat	N	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+мань	-	-	-	-	-	mań	mań	mănʲ	-	мань	-	I:Sg1	Pron.Pers	-
+тедаʼ	-	-	-	-	-	tʼedaʔ	tʼedaʔ	tʲedăʔ	-	тедаʼ	-	now	Adv.Temp	-
+падарыʼ	-	-	-	-	-	padāriʔ	padariʔ	pădariʔ	-	пыдараʼ	-	you:Pl2	Pron.Pers	-
+ненюмтиʼ	-	-	-	-	-	ńeńumtʼiʔ	ńeńumtʼiʔ	nʲenʲumtʲiʔ	-	неню	-	daughter:Acc.PxPl2	N	-
+меванце	-	-	-	-	-	mewāˈńće	mewańće	mewanʲʦʲe	-	мэсь	-	take:Sup	V	-
+тодмʼ	-	-	-	-	-	todmʔ	todmʔ	todmʔ	-	тось	-	come:ScSg1	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+таына	-	-	-	-	-	tāīna	taina	taiːnă	-	тайна	-	there:Spat	Adv	-
+нысенадиʼ	-	-	-	-	-	niśenadʼiʔ	niśenadʼiʔ	nisʲenădʲiʔ	-	нися	-	father:Pl.Gen.PxDu2	N	-
+небенадиʼ	-	-	-	-	-	ńebeˈnadʼiʔ	ńebenadʼiʔ	nʲebenădʲiʔ	-	небя	-	mother:Pl.Gen.PxDu2	N	-
+хаңадуʼ	-	-	-	-	-	xāŋaduʔ	xaŋaduʔ	xaŋăduʔ	-	ханзь	-	call:Co-S/O.OcPl3	V	-
+падарыʼ	-	-	-	-	-	padāriʔ	padariʔ	pădariʔ	-	пыдараʼ	-	you:Pl2	Pron.Pers	-
+ненюмтиʼ	-	-	-	-	-	ńeńumtʼiʔ	ńeńumtʼiʔ	nʲenʲumtʲiʔ	-	неню	-	daughter:Acc.PxPl2	N	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+иры	-	-	-	-	-	jirīˈ	jiri	jiriː	-	ирий	-	moon	N	-
+ма	-	-	-	-	-	mā	ma	ma	-	манзь	-	tell:ScSg3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+маниʼ	-	-	-	-	-	mańiʔ	mańiʔ	mănʲiʔ	-	маниʼ	-	we:Du1	Pron.Pers	-
+ненюмыʼ	-	-	-	-	-	ńeńumiʔ	ńeńumiʔ	nʲenʲumiʔ	-	неню	-	daughter:Acc.PxPl1	N	-
+таравы	-	-	-	-	-	tārawī	tarawi	tarăwiː	-	тарась	-	need:PtcpPfv	V	-
+ңэбʼ	-	-	-	-	-	ŋäebʔ	ŋæbʔ	ŋæbʔ	-	ңэсь	-	be:GerMod	V	-
+сиданыʼ	-	-	-	-	-	śīdaniʔ	śidaniʔ	sʲiːdăniʔ	-	сидниʼ	-	us:Du1.Acc	Pron.Pers	-
+тёконʼ	-	-	-	-	-	tʼokonʔ	tʼokonʔ	tʲokonʔ	-	тюконʼ	-	to here:Spat.Dat	Adv	-
+вынесеʼ	-	-	-	-	-	wīńeśeˈʔ	wińeśeʔ	wiːnʲesʲeʔ	-	вунись	-	not:Prt1.ScPl3	V.Aux	-
+ңэдаптаңкуʼ;	-	-	-	-	-	ŋäedaptaŋkūʔ	ŋædaptaŋkuʔ	ŋædăptăŋkuːʔ	-	ңэдабтась	-	send:Fut.Cng	V	-
+;	-	-	-	-	-	;	;	;	-	;	-	;	;	-
+нюмыʼ	-	-	-	-	-	ńūmiʔ	ńumiʔ	nʲuːmiʔ	-	ню	-	child:Acc.PxDu1	N	-
+нымын	-	-	-	-	-	nīmin	nimin	niːmin	-	нись	-	not:OcDu1	V.Aux	-
+татʼ	-	-	-	-	-	tatʔ	tatʔ	tătʔ	-	тась	-	give:Fut.Cng	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+падар	-	-	-	-	-	padār	padar	pădar	-	пыдар	-	you:Sg2	Pron.Pers	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+мань	-	-	-	-	-	mań	mań	mănʲ	-	мань	-	I:Sg1	Pron.Pers	-
+нянан	-	-	-	-	-	ńānān	ńanan	nʲanan	-	няна	-	to me:Sg1.Loc	Pron.Pers	-
+илева	-	-	-	-	-	jīlʼewa	jilʼewa	jiːlʲewă	-	илесь	-	live:NA	V	-
+ямбян	-	-	-	-	-	jāmban	jamban	jambăn	-	ямбанʼ	-	during:Dat	Po	-
+тёкона	-	-	-	-	-	tʼokonaˈ	tʼokona	tʲokonă	-	тюкона	-	here:Spat.Loc	Adv	-
+илиʼ	-	-	-	-	-	jīlʼīʔ	jilʼiʔ	jiːlʲiːʔ	-	илесь	-	live:Imp.ScSg2	V	-
+!	-	-	-	-	-	!	!	!	-	!	-	!	!	-
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+нерняʼ	-	-	-	-	-	ńerńāʔ	ńerńaʔ	nʲernʲaʔ	-	нерняʼ	-	forward:Dat	Po	-
+ян-тер	-	-	-	-	-	jān-tʼer	jan-tʼer	jan-tʲer	-	я-тер	-	land:Gen-inhabitant	N-N	-
+ненецʼ	-	-	-	-	-	ńenećʔ	ńenećʔ	nʲeneʦʲʔ	-	ненэцьʼ	-	man	N	-
+тёкод	-	-	-	-	-	tʼokod	tʼokod	tʲokod	-	тюкод	-	from here:Spat.Abl	Adv	-
+сит	-	-	-	-	-	śit	śit	sʲit	-	сит	-	you:Sg2.Acc	Pron.Pers	-
+маныйейеʼ	-	-	-	-	-	manīˈjejeʔ	manijejeʔ	măniːjejeʔ	-	маниесь	-	see:Conj.ScPl3	V	-
+,	-	-	-	-	-	,	,	,	-	,	-	,	,	-
+манцетайеʼ	-	-	-	-	-	mānćetājeʔ	manćetajeʔ	manʦʲetajeʔ	-	манзь	-	tell:Freq.Conj.ScPl3	V	-
+:	-	-	-	-	-	:	:	:	-	:	-	:	:	-
+иры	-	-	-	-	-	jirī	jiri	jiriː	-	ирий	-	moon	N	-
+ңаныʼ	-	-	-	-	-	ŋāniʔ	ŋaniʔ	ŋaniʔ	-	ңаниʼ	-	in turn	CC	-
+хаерадʼ	-	-	-	-	-	xājerādʔ	xajeradʔ	xajeradʔ	-	хаер	-	sun:Gen	N	-
+ненюмʼ	-	-	-	-	-	ńeńumʔ	ńeńumʔ	nʲenʲumʔ	-	неню	-	daughter:Acc	N	-
+меванце	-	-	-	-	-	mewańće	mewańće	mewănʲʦʲe	-	мэсь	-	take:Sup	V	-
+хэывы	-	-	-	-	-	xäeiwīˈ	xæiwi	xæiwiː	-	хэсь	-	leave:PtcpPfv	V	-
+хасава	-	-	-	-	-	xāsawa	xasawa	xasăwă	-	хасава	-	man	N	-
+ирыхана	-	-	-	-	-	jirīxana	jirixana	jiriːxănă	-	ирий	-	moon:Loc	N	-
+ти	-	-	-	-	-	tʼīˈ	tʼi	tʲiː	-	ти	-	here:Spat	Adv	-
+тадада	-	-	-	-	-	tādāda	tadada	tadadă	-	тадась	-	replace:OcSg3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+"	-	-	-	-	-	"	"	"	-	"	-	"	"	-
+														
+тад	-	-	-	-	-	tād	tad	tad	-	тад	-	then	Adv.Temp	-
+та	-	-	-	-	-	tāˈ	ta	ta	-	таʼ	-	that	Pron.Dem	-
+илелйедʼ	-	-	-	-	-	jīlʼelʼjedʔ	jilʼelʼjedʔ	jiːlʲelʲjedʔ	-	илесь	-	live:RPl3	V	-
+.	-	-	-	-	-	.	.	.	-	.	-	.	.	-
+														
